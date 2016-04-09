@@ -18,6 +18,8 @@ public class Activator extends AbstractUIPlugin {
 	
 	// second line
 	
+	// dkjfhsdkjf
+	
 	/**
 	 * The constructor
 	 */
