@@ -13,6 +13,8 @@ public class Activator extends AbstractUIPlugin {
 
 	// The shared instance
 	private static Activator plugin;
+
+	private String fInput;
 	
 	// second line
 	
@@ -21,6 +23,14 @@ public class Activator extends AbstractUIPlugin {
 	 */
 	public Activator() {
 	}
+	
+	/**
+	 * The constructor
+	 */
+	public Activator(String pInput) {
+		this.fInput = pInput;
+	}
+
 
 	/*
 	 * (non-Javadoc)
