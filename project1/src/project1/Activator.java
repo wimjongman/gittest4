@@ -16,9 +16,7 @@ public class Activator extends AbstractUIPlugin {
 
 	private String fInput;
 	
-	// second line
-	
-	// dkjfhsdkjf
+	// second line 123
 	
 	/**
 	 * The constructor
